@@ -3,5 +3,9 @@ An intelligent Healthcare Management Solution that acts as a bridge between pati
 ### 📸 App Screenshots
 ![Main Interface](Screenshot%202026-02-27%20043459.png)
 ![Workflow](Screenshot%202026-02-27%20171157.png)
-![Workflow](Screenshot%202026-02-27%174204.png)
-![Workflow](Screenshot%202026-02-27%102409.png)
+#### 3. Backend Processing Logic
+![Backend](Screenshot%202026-02-27%20174204.png)
+
+#### 4. Final Inventory & Database Status
+![Inventory](Screenshot%202026-02-28%20102409.png)
+

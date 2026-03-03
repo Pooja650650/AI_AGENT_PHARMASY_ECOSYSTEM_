@@ -9,5 +9,5 @@ An intelligent Healthcare Management Solution that acts as a bridge between pati
 #### 4. Final Inventory & Database Status
 ![Inventory](Screenshot%202026-02-28%20102409.png)
 
-
-![Inventory](Screenshot%202026-03-03%140553.png)
+#### 5. Email Order Notification (via n8n)
+![Email Notification](Screenshot%202026-03-03%20140553.png)

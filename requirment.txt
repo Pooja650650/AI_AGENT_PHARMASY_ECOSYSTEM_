@@ -1,0 +1,8 @@
+streamlit
+requests
+pandas
+groq
+langfuse
+google-generativeai
+streamlit-mic-recorder
+pydub

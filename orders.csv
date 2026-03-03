@@ -1,0 +1,16 @@
+customer_id,customer_name,medicine_id,order_date,dosage_frequency,quantity_bought,medicine_name,status
+C001,Rahul Sharma,101.0,2026-01-18,2 times a day,20.0,,Confirmed
+C002,Anita Verma,103.0,2024-01-05,1 time a day,5.0,,Confirmed
+101,User,,2026-01-27,,,Cough syrup,Confirmed
+101,User,,2026-01-27,,,Cough syrup,Confirmed
+C001,User,101.0,2026-01-27,As prescribed,1.0,,Confirmed
+C001,User,101.0,2026-02-13,As prescribed,21.0,amoxicillin,Confirmed
+C001,User,104.0,2026-02-13,As needed,1.0,Cough Syrup,Confirmed
+C001,User,104.0,2026-02-13,As needed,1.0,Cough Syrup,Confirmed
+C001,User,104.0,2026-02-13,As needed,1.0,Cough Syrup,Confirmed
+C001,User,101.0,2026-02-13,As prescribed,21.0,amoxicillin,Confirmed
+C001,User,101.0,2026-02-14,As prescribed,21.0,amoxicillin,Confirmed
+C001,User,101.0,2026-02-14,As prescribed,21.0,amoxicillin,Confirmed
+C001,User,104.0,2026-02-25,As needed,1.0,Cough Syrup,Confirmed
+C001,User,104.0,2026-02-25,As needed,1.0,Cough Syrup,Confirmed
+C001,User,104.0,2026-02-25,As needed,1.0,Cough Syrup,Confirmed

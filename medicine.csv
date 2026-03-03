@@ -1,0 +1,4 @@
+medicine_id,medicine_name,stock_level,unit,prescription_required,price
+101,Amoxicillin,50,Capsule,Yes,50
+104,Cough Syrup,14,Bottle,No,85
+105,Azithromycin,0,capsule,yes,20
